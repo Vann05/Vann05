@@ -4,7 +4,7 @@
 <br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vann05&label=Profile%20views&color=0e75b6&style=flat" alt="vann05" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Vann05&icon=9&color=10)](https://visitcount.itsvg.in)
 
 >> 🌱 I’m currently learning | **Python, Java Script, React**<br><br> 📫 How to reach me | **abcxyz75o2@gmail.com**<br><br>📄 Know about my experiences | [rb.gy/fkdlx7](https://rb.gy/fkdlx7)
 
@@ -12,6 +12,7 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/rWF4Mh89) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vand.jurado) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vann_dann_j) 
+
 <br>
 <br>
 
@@ -20,8 +21,6 @@
 
 <br>
 <br>
-
-[![](https://visitcount.itsvg.in/api?id=Vann05&icon=9&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/VanJurado) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vdjrd) 
